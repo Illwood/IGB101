@@ -30,6 +30,7 @@ public class GameManager : MonoBehaviour
     {
         LevelCompleteCheck();
         UpdateGUI();
+        PlayAudioSamples();
     }
 
     // Method for checking sufficient items are collected
