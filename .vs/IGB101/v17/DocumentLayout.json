@@ -3,7 +3,19 @@
   "WorkspaceRootPath": "C:\\Users\\takum\\IGB101\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2D83EBA4-951C-A03E-E829-E3482AFCAF3A}|Assembly-CSharp.csproj|c:\\users\\takum\\igb101\\assets\\scripts\\thirdpersoncamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2D83EBA4-951C-A03E-E829-E3482AFCAF3A}|Assembly-CSharp.csproj|c:\\users\\takum\\igb101\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D83EBA4-951C-A03E-E829-E3482AFCAF3A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D83EBA4-951C-A03E-E829-E3482AFCAF3A}|Assembly-CSharp.csproj|c:\\users\\takum\\igb101\\assets\\jamie robinson\\unique scripts\\playermovementjamierobinson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D83EBA4-951C-A03E-E829-E3482AFCAF3A}|Assembly-CSharp.csproj|solutionrelative:assets\\jamie robinson\\unique scripts\\playermovementjamierobinson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D83EBA4-951C-A03E-E829-E3482AFCAF3A}|Assembly-CSharp.csproj|C:\\Users\\takum\\IGB101\\assets\\scripts\\levelswitch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D83EBA4-951C-A03E-E829-E3482AFCAF3A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\levelswitch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D83EBA4-951C-A03E-E829-E3482AFCAF3A}|Assembly-CSharp.csproj|C:\\Users\\takum\\IGB101\\assets\\scripts\\thirdpersoncamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2D83EBA4-951C-A03E-E829-E3482AFCAF3A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\thirdpersoncamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -15,12 +27,8 @@
       "RelativeMoniker": "D:0:0:{2D83EBA4-951C-A03E-E829-E3482AFCAF3A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cameramovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2D83EBA4-951C-A03E-E829-E3482AFCAF3A}|Assembly-CSharp.csproj|c:\\users\\takum\\igb101\\assets\\scripts\\doortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2D83EBA4-951C-A03E-E829-E3482AFCAF3A}|Assembly-CSharp.csproj|C:\\Users\\takum\\IGB101\\assets\\scripts\\doortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2D83EBA4-951C-A03E-E829-E3482AFCAF3A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\doortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D83EBA4-951C-A03E-E829-E3482AFCAF3A}|Assembly-CSharp.csproj|C:\\Users\\takum\\IGB101\\assets\\scripts\\levelswitch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D83EBA4-951C-A03E-E829-E3482AFCAF3A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\levelswitch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,14 +43,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ThirdPersonCamera.cs",
-              "DocumentMoniker": "C:\\Users\\takum\\IGB101\\Assets\\Scripts\\ThirdPersonCamera.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\ThirdPersonCamera.cs",
-              "ToolTip": "C:\\Users\\takum\\IGB101\\Assets\\Scripts\\ThirdPersonCamera.cs",
-              "RelativeToolTip": "Assets\\Scripts\\ThirdPersonCamera.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "C:\\Users\\takum\\IGB101\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
+              "ToolTip": "C:\\Users\\takum\\IGB101\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAkwBgAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T08:56:17.189Z",
+              "WhenOpened": "2024-06-01T09:45:17.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerMovementJamieRobinson.cs",
+              "DocumentMoniker": "C:\\Users\\takum\\IGB101\\Assets\\Jamie Robinson\\Unique Scripts\\PlayerMovementJamieRobinson.cs",
+              "RelativeDocumentMoniker": "Assets\\Jamie Robinson\\Unique Scripts\\PlayerMovementJamieRobinson.cs",
+              "ToolTip": "C:\\Users\\takum\\IGB101\\Assets\\Jamie Robinson\\Unique Scripts\\PlayerMovementJamieRobinson.cs",
+              "RelativeToolTip": "Assets\\Jamie Robinson\\Unique Scripts\\PlayerMovementJamieRobinson.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T09:44:48.454Z",
               "EditorCaption": ""
             },
             {
@@ -52,6 +73,18 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "ThirdPersonCamera.cs",
+              "DocumentMoniker": "C:\\Users\\takum\\IGB101\\Assets\\Scripts\\ThirdPersonCamera.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ThirdPersonCamera.cs",
+              "ToolTip": "C:\\Users\\takum\\IGB101\\Assets\\Scripts\\ThirdPersonCamera.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ThirdPersonCamera.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T08:56:17.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Doortest.cs",
               "DocumentMoniker": "C:\\Users\\takum\\IGB101\\Assets\\Scripts\\Doortest.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Doortest.cs",
@@ -59,12 +92,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Doortest.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T13:28:46.378Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-30T13:28:46.378Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "LevelSwitch.cs",
               "DocumentMoniker": "C:\\Users\\takum\\IGB101\\Assets\\Scripts\\LevelSwitch.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\LevelSwitch.cs",
@@ -76,7 +108,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "GameManager.cs",
               "DocumentMoniker": "C:\\Users\\takum\\IGB101\\Assets\\Scripts\\GameManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
@@ -84,12 +116,11 @@
               "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
               "ViewState": "AQIAABIAAAAAAAAAAAAAAC0AAABKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T12:45:30.131Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-27T12:45:30.131Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "CameraMovement.cs",
               "DocumentMoniker": "C:\\Users\\takum\\IGB101\\Assets\\Scripts\\CameraMovement.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\CameraMovement.cs",
@@ -97,8 +128,7 @@
               "RelativeToolTip": "Assets\\Scripts\\CameraMovement.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAABsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T02:27:07.382Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-28T02:27:07.382Z"
             }
           ]
         }

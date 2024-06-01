@@ -22,6 +22,8 @@ public class PlayerMovement : MonoBehaviour{
 
         Actions();
 
+        Sneak();
+
     }
 
     private void ForwardMovement(){
@@ -56,6 +58,19 @@ public class PlayerMovement : MonoBehaviour{
             anim.SetBool("Waving", true);
         } else if(Input.GetKeyUp("e")){
             anim.SetBool("Waving", false);
+        }
+    }
+
+    // This is Jamie's code
+    private void Sneak()
+    {
+        if (Input.GetKey(KeyCode.LeftControl))
+        {
+            anim.SetBool("Sneaking", true);
+        }
+        else
+        {
+            anim.SetBool("Sneaking", false);
         }
     }
 }
