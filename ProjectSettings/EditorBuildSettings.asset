@@ -8,4 +8,11 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Takuma Aoki/Scenes/IGB101 Assignment 3 T.A.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Joshua Mould/Scenes/SampleScene.unity
+    guid: ad2e423e951327e43b2b4ad4debde6c7
+  - enabled: 1
+    path: Assets/Jamie Robinson/Scenes/Robinson, Jamie, n11610123 - IGB101 Assignment
+      3.unity
+    guid: 2cdba08f84feced4ea5f2a0f0b794cb7
   m_configObjects: {}
